@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Quinn!
 
-I'm a Software Engineer currently working at @RoviSys in Aurora, OH. I also previously did work doing Quality Assurance and Game Development @HypixelNetwork remotely, and was a Software Engineering Co-op @DieboldNixdorf in North Canton, OH. Currently, I mostly work in C# on the backend with frontends in various forms including Angular and C#. Previously I worked primarily in Java throughout my schooling and while doing Minecraft game development with Spigot/Bukkit at Hypixel. I also love to experiment with new things in development, such as my Senior Design project primarily built in Flutter with a Node.js and Typescript backend, as well as doing some of Advent of Code each year primarily in Python.
+I'm a Software Engineer currently working @RoviSys in Aurora, OH. I also previously did work doing Quality Assurance and Game Development @HypixelNetwork remotely, and was a Software Engineering Co-op @DieboldNixdorf in North Canton, OH. Currently, I mostly work in python on the backend with frontends mainly in Angular. Previously I worked primarily in Java throughout my schooling and while doing Minecraft game development with Spigot/Bukkit at Hypixel. I also love to experiment with new things in development, such as my Senior Design project primarily built in Flutter with a Node.js and Typescript backend, as well as doing some of Advent of Code each year primarily in Python.
 
 I might put some more stuff here eventually, but that's all for now! Shoot me an email @ q@qkleinfelter.com if you need to get in touch.
 
